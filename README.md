@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Charles </h1>
 <h3 align="start">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **express**
+- 🌱 I’m currently learning **express js, material ui**
 
 - 📫 How to reach me **charles.banigon@gmail.com**
 
