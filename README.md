@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Charles </h1>
-<h3 align="start">A passionate frontend developer from Philippines</h3>
+<h3 align="start">ReactJs Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **typescript, express js, <a href="https://mui.com/" target="blank">material-ui</a>**
 
