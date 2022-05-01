@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Charles </h1>
 <h3 align="start">ReactJs Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **<a href="https://www.typescriptlang.org/">typescript</a>**
 
 - 📫 How to reach me **charles.banigon@gmail.com**
 
