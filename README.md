@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **charles.banigon@gmail.com**
 
-- ⚡ Fun fact **I play guitar**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/charlesgemuel.banigon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charlesgemuel.banigon" height="30" width="40" /></a>
