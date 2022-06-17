@@ -1,4 +1,4 @@
-<h1 align="start">Hi 👋, I'm Charles </h1>
+<h1 align="start">Hi 👋, I'm Charles Gemuel Banigon </h1>
 <h3 align="start">Web Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **<a href="https://www.typescriptlang.org/">typescript</a>**
