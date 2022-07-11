@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Charles Gemuel Banigon </h1>
-<h3 align="start">Web Developer from Philippines</h3>
+<h3 align="start">Aspiring Web Developer from Philippines</h3>
 
 
 - 📫 How to reach me **charles.banigon@gmail.com**
