@@ -7,7 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charlesbanigon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesbanigon" height="30" width="40" /></a>
-<a href="https://instagram.com/charlestootie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charlestootie" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjc0XcgY2jJNCZNQRjnb2Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charles gemuel banigon" height="30" width="40" /></a>
 </p>
 
