@@ -16,3 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icecrimu&show_icons=true&locale=en&layout=compact" alt="icecrimu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecrimu&" alt="icecrimu" /></p>
+
+![](https://komarev.com/ghpvc/?username=icecrimu)
+
