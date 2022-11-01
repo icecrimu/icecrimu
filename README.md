@@ -17,5 +17,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecrimu&" alt="icecrimu" /></p>
 
-![](https://komarev.com/ghpvc/?username=icecrimu)
-
